@@ -1,0 +1,3 @@
+C:/C/Projects/1 semester/RGR OpenGL MOVING MAN/cmake-build-debug/CMakeFiles/LAB_OGL_MOVING_MAN.dir
+C:/C/Projects/1 semester/RGR OpenGL MOVING MAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C/Projects/1 semester/RGR OpenGL MOVING MAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

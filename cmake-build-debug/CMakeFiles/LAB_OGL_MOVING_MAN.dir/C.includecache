@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C/Projects/1 semester/RGR OpenGL MOVING MAN/main.c
+windows.h
+-
+GL/gl.h
+-
+math.h
+-
+
